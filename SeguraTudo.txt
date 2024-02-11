@@ -1,0 +1,5 @@
+SELECT clientes.nome AS NomeCliente, apolices.numero_apolice AS NumeroApolice, 
+       apolices.tipo_seguro AS TipoSeguro, apolices.valor_premio AS ValorPremio
+FROM clientes
+JOIN apolices ON clientes.id_cliente = apolices.id_cliente
+WHERE apolices.status = 'ativa';
