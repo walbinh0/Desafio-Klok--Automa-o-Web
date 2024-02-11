@@ -1,6 +1,4 @@
 # Desafio de Estágio QA Klok Tech
-[![texto alt](https://www.klok.tech/wp-content/uploads/2022/02/logo.webp)]()
-
 ## Descrição
 O projeto, assim como requisitado no desafio  tem como objetivo realizar testes automatizados de ponta a ponta no site https://amazon.com.br. Os cenários estão escritos na linguagem Gherkin no arquivo "buscar.feature" no diretório "src/test/resources/features" 
 
