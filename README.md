@@ -3,8 +3,7 @@ O projeto, assim como requisitado no desafio  tem como objetivo realizar testes 
 
 Usei algumas tecnologias como Selenium; Java; Junit; Gherkin; BDD; Cucumber; Firefox (geckodriver);
 
-##  Rodando o projeto
+
 Para rodar o projeto é necessário clonar o mesmo e executar a classe Runner como Junit Test. 
 
-## Report do teste
 Ao final da execução dos cenários de teste, é produzido um report no diretório "target/cucumber" que pode ser visualizado abrindo o mesmo no navegador.
